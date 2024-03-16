@@ -1,4 +1,4 @@
-
+https://betterprogramming.pub/dockerize-laravel-vite-react-application-in-your-development-environment-a118aea4a02d
 
 use to spin up the container
 
